@@ -4,6 +4,7 @@
 cmake_minimum_required(VERSION 3.0.2)
 project(bytecoin-gui)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/bin")
+set (CMAKE_PREFIX_PATH "C:/Qt/5.10.0/msvc2017_64//")
 
 find_package(Qt5Core REQUIRED)
 find_package(Qt5Gui REQUIRED)

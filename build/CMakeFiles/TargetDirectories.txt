@@ -1,0 +1,4 @@
+/mnt/bytecoin-gui/build/CMakeFiles/edit_cache.dir
+/mnt/bytecoin-gui/build/CMakeFiles/rebuild_cache.dir
+/mnt/bytecoin-gui/build/CMakeFiles/bytecoin-gui.dir
+/mnt/bytecoin-gui/build/CMakeFiles/bytecoin-gui_automoc.dir

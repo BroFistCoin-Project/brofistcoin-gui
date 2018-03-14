@@ -51,12 +51,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_12A3F30B97CE41F0815A84642A6717CE"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_135BB60BCD7D4FA0B115023A3B4BEDDA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -141,12 +135,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_7DB6004822064C4AADAC250A24321BF5"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_7EFCC668F6904FD1B039A285F6757445"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -201,12 +189,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_9A4DCFB50F174B449495FB00D1E1DAD7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_9F9F092199BB47A89D76CAA1D1027B6E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -226,12 +208,6 @@
         "Entry"
         {
         "MsmKey" = "8:_B71851698DCC418DB79B131BFED724F3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BE1137420D5A48BFB217A8E35488DD64"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -292,6 +268,12 @@
         "Entry"
         {
         "MsmKey" = "8:_F63D3E9D60F746E7B58F2A909EA49724"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F646E16E06564482ABE90CC433E21269"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -492,26 +474,6 @@
             {
             "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\translations\\qt_pl.qm"
             "TargetName" = "8:qt_pl.qm"
-            "Tag" = "8:"
-            "Folder" = "8:_CC86214A25E848578B056E8B0C7DF93F"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_12A3F30B97CE41F0815A84642A6717CE"
-            {
-            "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\translations\\qt_lv.qm"
-            "TargetName" = "8:qt_lv.qm"
             "Tag" = "8:"
             "Folder" = "8:_CC86214A25E848578B056E8B0C7DF93F"
             "Condition" = "8:"
@@ -988,26 +950,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9A4DCFB50F174B449495FB00D1E1DAD7"
-            {
-            "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\bearer\\qnativewifibearer.dll"
-            "TargetName" = "8:qnativewifibearer.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_EA323EA245EE499B85F5030B0B43A82A"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9F9F092199BB47A89D76CAA1D1027B6E"
             {
             "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\imageformats\\qtiff.dll"
@@ -1072,26 +1014,6 @@
             {
             "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\translations\\qt_ko.qm"
             "TargetName" = "8:qt_ko.qm"
-            "Tag" = "8:"
-            "Folder" = "8:_CC86214A25E848578B056E8B0C7DF93F"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BE1137420D5A48BFB217A8E35488DD64"
-            {
-            "SourcePath" = "8:..\\build-bytecoin-gui-Desktop_Qt_5_10_0_MSVC2015_32bit-Release\\release\\translations\\qt_gd.qm"
-            "TargetName" = "8:qt_gd.qm"
             "Tag" = "8:"
             "Folder" = "8:_CC86214A25E848578B056E8B0C7DF93F"
             "Condition" = "8:"
@@ -1292,6 +1214,26 @@
             {
             "SourcePath" = "8:..\\..\\bytecoin\\bin\\bytecoind.exe"
             "TargetName" = "8:bytecoind.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_BB6FE95E6903428FBAEC9FE62CB0FE39"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F646E16E06564482ABE90CC433E21269"
+            {
+            "SourcePath" = "8:C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Redist\\MSVC\\14.13.26020\\MergeModules\\Microsoft_VC141_CRT_x86.msm"
+            "TargetName" = "8:Microsoft_VC141_CRT_x86.msm"
             "Tag" = "8:"
             "Folder" = "8:_BB6FE95E6903428FBAEC9FE62CB0FE39"
             "Condition" = "8:"
@@ -2028,20 +1970,6 @@
         }
         "MergeModule"
         {
-            "{CEE29DC0-9FBA-4B99-8D47-5BC643D9B626}:_7DB6004822064C4AADAC250A24321BF5"
-            {
-            "UseDynamicProperties" = "11:TRUE"
-            "IsDependency" = "11:FALSE"
-            "SourcePath" = "8:C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Redist\\MSVC\\14.12.25810\\MergeModules\\Microsoft_VC141_CRT_x86.msm"
-                "Properties"
-                {
-                }
-            "LanguageId" = "3:0"
-            "Exclude" = "11:FALSE"
-            "Folder" = "8:"
-            "Feature" = "8:"
-            "IsolateTo" = "8:"
-            }
         }
         "ProjectOutput"
         {
